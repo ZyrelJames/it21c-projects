@@ -7,7 +7,7 @@ public class Main{
         System.out.println("Student Info: " + student);
         System.out.println("Student Major: " + student.getMajor());
 
-        Instructor instructor = new Instructor("Rey Sinabianan", 1999, 30000);
+        Instructor instructor = new Instructor("ZyrelJames Umpay Tagarda", 2004, 30000);
 
         System.out.println("Instructor Info: " + instructor);
         System.out.println("Instructor Salary: " + instructor.getSalary());
